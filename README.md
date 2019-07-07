@@ -1,16 +1,15 @@
-# book_store
+# · UI | Listening Book app with Flutter
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+![alt text](https://github.com/manudevcode/flutter_listening_book_app/blob/master/assets/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-07-06%20at%2022.44.09.png?raw=true)
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/manudevcode/flutter_listening_book_app/blob/master/assets/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-07-06%20at%2023.11.35.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://github.com/manudevcode/flutter_listening_book_app/blob/master/assets/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-07-06%20at%2023.22.58.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/manudevcode/flutter_listening_book_app/blob/master/assets/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-07-06%20at%2023.25.10.png?raw=true)
+
+
+![alt text](https://github.com/manudevcode/flutter_listening_book_app/blob/master/assets/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-07-06%20at%2023.25.15.png?raw=true)
